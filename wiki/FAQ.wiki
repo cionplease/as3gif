@@ -1,5 +1,5 @@
 #labels Featured
-A: Could u tell me how can we play animated image in flex 3 (AS3)?
+A: How to use the GIFPlayer in Flex project?
 
 Q: You just need a UICompent the wrap the player :)
 {{{
