@@ -1,0 +1,1 @@
+AS3GIF lets you play and encode animated GIF's with ActionScript 3
